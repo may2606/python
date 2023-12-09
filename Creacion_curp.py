@@ -70,3 +70,5 @@ curp_generada = generar_CURP(nombre, apellido_paterno, apellido_materno, sexo, f
 
 # Mostrar la CURP generada
 print("Tu CURP generada es:", curp_generada)
+ #integrantes : Danae Paloma Hernande Gomez 
+#Mayra Galvez Rodriguez
